@@ -1,7 +1,24 @@
-Links para Download:
-https://git-scm.com/downloads
-https://desktop.github.com/
+## Git e GitHub ##
 
-Sintaxe Básica de markdown:
-https://www.markdownguide.org/basic-syntax/
+​	Git e Github são utilizados no dia a dia das pessoas que criam software por um motivo bem simples: uma forma fácil de gerenciar o código fonte da aplicação, do sistema e do produto.
+
+###  O que é o Git? ### 
+
+​	É um sistema de controle de versão, em que é necessário manter o histórico dos nossos arquivos, das nossas modificações, pois muitas vezes mudamos arquivos em grupo, num movimento único (um commit). Dessa forma, podemos voltar atrás e recuperar o estado do sistema como ele era ontem, ou no ano passado, e comparar as mudanças para encontrar bug ou para estudar otimizações.
+
+​	Todos os nossos arquivos, assim como os históricos, ficam em um repositório.
+
+​	O Git é um sistema de controle de versão distribuído e amplamente adotado. O Git nasceu e foi tomando espaço dos outros sistemas de controle. Seu criador principal é o mesmo que o do Linux: Linus Torvalds.
+
+
+
+### GitHub 
+
+​	O Github tem relação com o Git. GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle. Ele vai facilitar o uso do Git, escondendo alguns detalhes mais complicados de setup. 
+
+O sistema web que ele possui permite que você altere arquivos lá mesmo, apesar de não ser muito aconselhado, pois você não terá um editor, um ambiente de desenvolvimento e testes. 		Para se comunicar com o github e mexer nos arquivos do seu reposítorio, você pode usar a linha de comando, usando o comando do `git` e suas diretivas de `commit`, `pull` e `push`.
+
+
+
+Fonte: https://www.alura.com.br/artigos/o-que-e-git-github?gclid=EAIaIQobChMI8tjPvLaC-QIVC2GRCh1WKAZOEAAYAiAAEgLQ_vD_BwE 18/07/2022 às 9:30.
 
