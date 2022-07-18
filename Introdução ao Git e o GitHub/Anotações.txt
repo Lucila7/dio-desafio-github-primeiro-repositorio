@@ -1,8 +1,8 @@
-## Git e GitHub ##
+ Git e GitHub 
 
 ​	Git e Github são utilizados no dia a dia das pessoas que criam software por um motivo bem simples: uma forma fácil de gerenciar o código fonte da aplicação, do sistema e do produto.
 
-###  O que é o Git? ### 
+O que é o Git? 
 
 ​	É um sistema de controle de versão, em que é necessário manter o histórico dos nossos arquivos, das nossas modificações, pois muitas vezes mudamos arquivos em grupo, num movimento único (um commit). Dessa forma, podemos voltar atrás e recuperar o estado do sistema como ele era ontem, ou no ano passado, e comparar as mudanças para encontrar bug ou para estudar otimizações.
 
@@ -12,7 +12,7 @@
 
 
 
-### GitHub 
+GitHub 
 
 ​	O Github tem relação com o Git. GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle. Ele vai facilitar o uso do Git, escondendo alguns detalhes mais complicados de setup. 
 
